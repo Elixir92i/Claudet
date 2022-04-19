@@ -1,2 +1,2 @@
 # Mailys
-Présentation - Projet Maïlys
+Présentation - Projet
