@@ -37,11 +37,17 @@ h2 {
     width: fit-content;
     margin: auto;
     margin-top: 25px;
-    margin-bottom: 75px;
+    margin-bottom: 50px;
     padding: 15px 190px 15px 190px;
     -webkit-box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
     -moz-box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
     box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
+}
+
+audio{
+    display: flex;
+    margin: auto;
+    margin-bottom: 15px;
 }
 
 img{
