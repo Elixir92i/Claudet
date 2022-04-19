@@ -1,0 +1,94 @@
+html {
+    background-color: #f0e6dc;
+    width: 1024px;
+    margin: auto;
+    text-align: justify;
+}
+
+.title {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid #7f796d;
+    width: fit-content;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 15px 100px 15px 100px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+article{
+    font-size: 20px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+h2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #c12526;
+    width: fit-content;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    padding: 15px 190px 15px 190px;
+    -webkit-box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
+    -moz-box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
+    box-shadow: 15px 15px 5px 0px rgba(162, 2, 4, 1);
+}
+
+img{
+    width: 130px;
+    height: 220px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+.thin{
+    font-weight: lighter;
+}
+
+.justify{
+    text-justify: inter-word;
+}
+
+.main{
+    width: 90%;
+    margin: auto;
+}
+
+.line1, .line2 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    margin-right: 25px;
+}
+
+.rigth{
+    margin-left: 25px;
+}
+.imgleft{
+    float: left;
+    padding: 0 20px 10px 0;
+}
+
+.imgrigth{
+    float: right;
+    padding: 0 0 10px 20px;
+}
